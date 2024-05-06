@@ -1,12 +1,12 @@
 {
-    "id": "362483D9",
-    "path": "~/GitHub/midproject/projects.qmd",
-    "project_path": "projects.qmd",
+    "id": "A7C7E74F",
+    "path": "~/GitHub/midproject/Research Question 1.qmd",
+    "project_path": "Research Question 1.qmd",
     "type": "quarto_markdown",
-    "hash": "4203625185",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1710208166128.0,
+    "created": 1715027687473.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
@@ -16,16 +16,14 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "27:180.8000030517578",
-        "cursorPosition": "0,0",
-        "scrollLine": "0"
+        "rmdVisualModeLocation": "2:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1710209183,
+    "lastKnownWriteTime": 1715023053,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710209183483,
+    "last_content_update": 1715023053,
     "read_only": false,
     "read_only_alternatives": []
 }
